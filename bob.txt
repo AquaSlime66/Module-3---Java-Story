@@ -1,0 +1,236 @@
+
+A chill, unsettling desert wind blows grains of sand past your face as you awaken.
+Your eyes slowly crack open to see you’re inside of a decomposing, rusty structure. 
+It appears as if it’s been around for a thousand years, but constantly maintained and repaired 
+with slightly less old, but still just as rusty, patches of scrap metal. 
+You’ve regained more awareness, and see that a large crack in the hull of this metallic beast is 
+the source of desert wind and sand, but behind you the metallic structure groans, and the 
+darkness of its hallways entices you.
+
+1. Leave the barge.
+2. Explore the barge.
+You chose: 1. Leave the barge.
+The howl of the desert entrances your deranged mind, and you slowly wander out from the
+barge into the sandy wasteland. You wander for what seems like days, weeks, perhaps even 
+months, but you know it isn’t as it seems, the roar of the sandstorms whispers into your crazed 
+ears. Eventually you collapse near the edge of a blackened, oily looking swamp. After a few 
+hours of much needed rest, you continue wandering into the depths of the swamp. Along you 
+way, you spot a small, rotting hut in the distance.
+
+1. Continue wandering deeper into the swamp.
+2. Investigate the hut.
+You chose: 2. Investigate the hut.
+It’s been days since you’ve eaten or drank clean water, the hut seems like the place to stop. As 
+you trudge your way over to it, you hear the clink of some tin cans in the distance. A hobbled, 
+old woman wearily opens the door to the hut, casting an uneasy stare at you. You explain that 
+you mean no harm, and she lets you in. “This swamp isn’t for the living, you need to leave. But 
+before you go, I will give you some coin and grub in exchange for a little bit ‘o labor.”
+
+1. Leave the swamp.
+2. Help the old witch out.
+You chose: 1. Leave the swamp.
+You don’t need to waste time helping a poor old woman out, so you move on. It might be worth it 
+to heed her warning about the swamp, so you head back towards the desert, there’s bound to 
+be something else, or just more sand. The lack of food and water severely cripple your 
+movement, and you feel as if you might die. The swamp may be able to meet your needs,
+but something’s not right about it, and you’re unsure if dehydration or poison will grant your
+demise.
+
+1. Forage from the swamp.
+2. Move on.
+You chose: 1. Forage from the swamp.
+You cave into drinking the swamp’s mystery liquid, and eating some slimy moss 
+growing on the sides of trees. It fills you a little, but then you pass out again. You can almost 
+taste the desert heat as you near the swamp’s edge, and you see the deserted ruins of a town.
+The filth of the swamp seems to have swallowed up the town entirely, something is not as it seems. A weathered and moss infested sign holds several wooden arrow-shaped signs that 
+point to various towns and cities, most point deeper into the swamp. One points outward, into 
+the desert, and reads Trent, city of the Gonti. It’s description says it’s only a day and half away, 
+so you wander back into the desert. 
+The heat feels worse, and the swamp flora starts to boil your insides. You fall to the ground in 
+agony, regretting not working for some real food. Your vision starts to blur, and in the distance, 
+you see a small skiff surfing above the sands, it’s the last thing you ever see.
+
+YOU DIED
+
+
+A chill, unsettling desert wind blows grains of sand past your face as you awaken.
+Your eyes slowly crack open to see you’re inside of a decomposing, rusty structure. 
+It appears as if it’s been around for a thousand years, but constantly maintained and repaired 
+with slightly less old, but still just as rusty, patches of scrap metal. 
+You’ve regained more awareness, and see that a large crack in the hull of this metallic beast is 
+the source of desert wind and sand, but behind you the metallic structure groans, and the 
+darkness of its hallways entices you.
+
+1. Leave the barge.
+2. Explore the barge.
+You chose: 1. Leave the barge.
+The howl of the desert entrances your deranged mind, and you slowly wander out from the
+barge into the sandy wasteland. You wander for what seems like days, weeks, perhaps even 
+months, but you know it isn’t as it seems, the roar of the sandstorms whispers into your crazed 
+ears. Eventually you collapse near the edge of a blackened, oily looking swamp. After a few 
+hours of much needed rest, you continue wandering into the depths of the swamp. Along you 
+way, you spot a small, rotting hut in the distance.
+
+1. Continue wandering deeper into the swamp.
+2. Investigate the hut.
+You chose: 2. Investigate the hut.
+It’s been days since you’ve eaten or drank clean water, the hut seems like the place to stop. As 
+you trudge your way over to it, you hear the clink of some tin cans in the distance. A hobbled, 
+old woman wearily opens the door to the hut, casting an uneasy stare at you. You explain that 
+you mean no harm, and she lets you in. “This swamp isn’t for the living, you need to leave. But 
+before you go, I will give you some coin and grub in exchange for a little bit ‘o labor.”
+
+1. Leave the swamp.
+2. Help the old witch out.
+You chose: 2. Help the old witch out.
+Some food and water sound very promising to the well-being of your current lifespan, so you 
+decide to help the witch out. You split moldy-looking wood, patch holes in the hut’s roof, and 
+repair a few fence posts. The witch graciously gives you much more than you deserve, but 
+seems happy to have some help, and company. She bids you on your way, and points in the 
+direction of the nearest settlement.
+You wander on, and can almost taste the desert heat as you near the swamp’s edge, and see 
+the deserted ruins of a town. The filth of the swamp seems to have swallowed up the town 
+entirely, something is not as it seems. A weathered and moss infested sign holds several 
+wooden arrow-shaped signs that point to various towns and cities, most point deeper into the 
+swamp. One points outward, into the desert, and reads Trent, city of the Gonti. The description 
+for Trent says it’s only a day and half away, so you wander back into the desert…
+
+**You've unlocked access to the currency menu, it will now appear under dialog boxes.**
+**Certain encounters have unique interactions if you choose to use your currency.**
+
+Inventory:          Gold/Money: 30
+
+
+
+A chill, unsettling desert wind blows grains of sand past your face as you awaken.
+Your eyes slowly crack open to see you’re inside of a decomposing, rusty structure. 
+It appears as if it’s been around for a thousand years, but constantly maintained and repaired 
+with slightly less old, but still just as rusty, patches of scrap metal. 
+You’ve regained more awareness, and see that a large crack in the hull of this metallic beast is 
+the source of desert wind and sand, but behind you the metallic structure groans, and the 
+darkness of its hallways entices you.
+
+1. Leave the barge.
+2. Explore the barge.
+You chose: 1. Leave the barge.
+The howl of the desert entrances your deranged mind, and you slowly wander out from the
+barge into the sandy wasteland. You wander for what seems like days, weeks, perhaps even 
+months, but you know it isn’t as it seems, the roar of the sandstorms whispers into your crazed 
+ears. Eventually you collapse near the edge of a blackened, oily looking swamp. After a few 
+hours of much needed rest, you continue wandering into the depths of the swamp. Along you 
+way, you spot a small, rotting hut in the distance.
+
+1. Continue wandering deeper into the swamp.
+2. Investigate the hut.
+You chose: 2. Investigate the hut.
+It’s been days since you’ve eaten or drank clean water, the hut seems like the place to stop. As 
+you trudge your way over to it, you hear the clink of some tin cans in the distance. A hobbled, 
+old woman wearily opens the door to the hut, casting an uneasy stare at you. You explain that 
+you mean no harm, and she lets you in. “This swamp isn’t for the living, you need to leave. But 
+before you go, I will give you some coin and grub in exchange for a little bit ‘o labor.”
+
+1. Leave the swamp.
+2. Help the old witch out.
+You chose: 1. Leave the swamp.
+You don’t need to waste time helping a poor old woman out, so you move on. It might be worth it 
+to heed her warning about the swamp, so you head back towards the desert, there’s bound to 
+be something else, or just more sand. The lack of food and water severely cripple your 
+movement, and you feel as if you might die. The swamp may be able to meet your needs,
+but something’s not right about it, and you’re unsure if dehydration or poison will grant your
+demise.
+
+1. Forage from the swamp.
+2. Move on.
+You chose: 2. Move on.
+You decide the swamp doesn’t offer any more life than death itself does. You wander on , and can almost taste the desert heat as you near the swamp’s edge, and you see the deserted ruins 
+of a town. The filth of the swamp seems to have swallowed up the town entirely, something is 
+not as it seems. A weathered and moss infested sign holds several wooden arrow-shaped signs 
+that point to various towns and cities, most point deeper into the swamp. One points outward, 
+into the desert, and reads Trent, city of the Gonti. The center of this town has a well, and its 
+water greatly aids your dying body. Upon scrounging some more, you find some moldy bread 
+and tainted meat, but it still suffices. You also find some leftover coin in a few house, whoever  
+left here, left fast. Turning back towards the town’s sign, the description for Trent says it’s only a 
+day and half away, so you wander back into the desert…
+
+**You've unlocked access to the currency menu, it will now appear under dialog boxes.**
+**Certain encounters have unique interactions if you choose to use your currency.**
+
+Inventory:          Gold/Money: 5
+
+Press Enter to continue....
+
+The harsh desert sun blinds you for a moment, but as your eyes adjust, you see a small skiff 
+buzzing and whirring about in the sunset. You start to wave them down, and the skiff 
+immediately makes a beeline for you. It comes to a sudden stop, and then one its operators 
+hops out, making a small crater in the sand. “Not many enter that swamp, and much less come 
+out, where are you heading?”. You tell him you may be headed for Trent, and he says; “Huh, we 
+come from Trent, and no one’s recently headed out this way. You must be from somewhere 
+else… C’mon we’ve got someone who’ll want to meet ya”. The other skippers practically pull 
+you onto the ship, and it zooms off towards Trent.
+
+A few hours later, the city pops into your field of vision. The city is enclosed with massive, 
+ancient red stone walls. A central spire sticks out from the center like the stem of an 
+upside-down mushroom made of stone. The rest of the city seems to bulge out from the city 
+walls, hardly being contained. The skiff passes through a military checkpoint to go into the city. 
+You sort of gather that this group has some type of clearance, and isn’t just a group of 
+scavengers. As you near the central spire of Trent, one scavengers radios something to an 
+unknown person, and a massive stone door lifts up, uncovering a hidden air bay in the higher 
+parts of the spire.
+
+An elevator guides your descent to the main chamber, and when you arrive…
+
+Press Enter to continue....
+
+Several armored sentinels stand guard around the chamber, with a small throne in the center. A 
+man, almost made of smoke, wearing a metallic mask that seems to flicker to life sits upon it, 
+clothed in ancient, threadbear robes. He immediately turns to you, and grabs your attention with 
+the glimmering mask. “Ah, it seems my scouts have brought me something, but is it of value?”. 
+The skipper that seems to be the leader of the group, steps forward, “We found this one near 
+the settlement of Gerso, wandering in the desert”. The man of smoke, turns to you, but it’s 
+difficult to tell if he’s staring at you with the glowing eyes and mask. “Ah Gerso, we were 
+preparing to accept more of their people, surely you passed by it in the desert?” he asks.
+
+You explain that you wandered through a battered and plague-ridden settlement that looked like 
+it’d been long abandoned, and give a general description of it. “We last contacted Gerso two 
+weeks ago… this plague is spreading faster than we thought.” the smoky man says, “it may be 
+time to fight the plague harder and stronger”. He turns back to you, “You must be a little 
+confused. My name is Gonti, Minister of Trent, and a plague is spreading, swallowing 
+settlements whole, and we do not have the manpower to research and defend against it, as 
+constant raider attacks keep our militia quite busy.”
+
+Gonti seems to think, the smoke twists and curls in the air, and then he turns to you. “Let me 
+see what knowledge you have, after all, you have survived the plague swamps.” A black orb 
+raises from the ground and the smoke seeping from the man’s visage seems to be drawn 
+towards it. As the smoke wraps itself around the orb, you feel your mind start to twist and 
+turn, it feels as if the smoke is enveloping your head. After a few minutes, the man stops. “Ah, I 
+see, you have much familiarity with the plague, more than you know.” “You’ve forgotten your 
+memories since the barge crash, but you come from a city to the South that was also destroyed 
+by the plague, and your barge carried some of the last survivors.”
+
+“I think I may have use for you…
+
+Press Enter to continue....
+
+“You lack experience in the ways of this world, but you still have much use. I am in need of bay 
+captains to protect and guard the air-ports of Trent from raiders and marauders. This would give 
+me more manpower to send towards combating the plague. The pay would be quite well, and 
+you would have a chance to protect our city from those who harmed yours.”
+
+“Do you accept?”
+
+1. Yes.
+2. No.
+You chose: 1. Yes.
+You start off as the captain of one of Trent’s several air bays, and defend it from numerous 
+raider attacks and attempts to sneak in. Gonti and the rest of Trent’s government notice the  
+good work you put in, and you’re promoted from bay captain to marshall of all Trent’s 
+surrounding airways. Gonti’s warning pays off, and you successfully deter a massive raider 
+assault. The city still takes casualties, as the war rages on for several years, but the raiders are 
+severely weakened, and dissolve into the tumbling sands of the desert. 
+Years later, a plague from the South creeps towards Trent. The city has the resources to fend it 
+off, as less manpower is devoted to driving off raiders, but it still affects the city. 
+Around the same time your first child leaves on their own, the plague is deterred. Trent remains 
+standing tall, a scarred city, but the survivors prosper.
+
+THE END (ENDING 3/4 SCION OF THE SKIES ENDING)
+
