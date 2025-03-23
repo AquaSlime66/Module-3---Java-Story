@@ -3,7 +3,7 @@
 My main goal with this project was to learn the basics of java, like reading user input, creating functions, writing to a file, and retrieving program-wide variables. The program first asks the user to name their story, and then takes them through a choose-your-own adventure type setting, where their choices change the story, and ultimately, the fate of the world. Throughout their journey, the program saves the user's story to a file they can access after the story (something I hated about choose-your own-adventure stories as kid was having to flip back and forth between pages). Writing this was fun, and I learned a lot from it. Java really isn't all that different from C#, and I think this will be a fun story to play through. 
 This project was a great introduction to Java, and I expect this practice will definitely aid me in future projects. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Java Text Story Link](https://youtu.be/ZqP6dNFd1Ms)
 
 # Development Environment
 - GitHub: Popular hosting and code repository site (what you're likely viewing the code on)
@@ -24,7 +24,7 @@ This project was a great introduction to Java, and I expect this practice will d
 # Useful Websites
 
 - [JavaSDK Downloader](https://www.oracle.com/java/technologies/downloads/?er=221886)
-- [ChatGPT](https://chatgpt.com/)
+- [ChatGPT](https://chatgpt.com/) *Only used for finding basic syntax*
 
 # Future Work
 - __Improved Save Menu:__ The save menu just asks the user for a name, and immediately makes a .txt file. It could be greatly improved, giving users the option to write over a save, delete older save files, or even append to existing ones.

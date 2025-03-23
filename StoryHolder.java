@@ -5,14 +5,15 @@ import java.nio.file.StandardOpenOption;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Collections;
-// import java.io.FileWriter;
-// import java.io.BufferedWriter;
+// imports misc. libraries needed to write to a file, read user input, etc
 
+//NOTE: For documentation/comments surronding the if loops, please refer to the first major loop seen in main, all after that follow the exact same pattern
 
-
-//add save feature to the end of each story!
+//overarching program class
 public class StoryHolder{
 
+    //creation statement, getter, and setter for the storyname variable
+    //NOTE: This will not work if the name is set to blank
     public static String storyName1 = "fake.txt";
     public static String retrieveStoryname(){
         return storyName1;
@@ -21,6 +22,7 @@ public class StoryHolder{
         storyName1 = storyName;
     }
 
+    //append any parameters to the user's specified .txt file
     public static void AddToFile(String addedText){
         String fileName = retrieveStoryname();
 
@@ -33,14 +35,14 @@ public class StoryHolder{
             e.printStackTrace();
         }
     }
-    //re-usable print function
+    
+    //re-usable print function, save time from typing out System.out.println a billion times
     public static void printSum(String string2print){
         System.out.println(string2print);
         AddToFile(string2print);
     }
-    //add section to save user input to a txt file in here?
 
-    //clears off the screen, moves the cursor
+    //clears off the screen, moves the cursor (works half the time?)
     public static void ClrScrn(){
         System.out.print("\033[H\033[2J");  
         System.out.flush(); 
@@ -48,7 +50,7 @@ public class StoryHolder{
     }
 
     //reads from user input, parse through to ensure the provided input is a number, ensure number is within our range (1 or 2), then 
-    //send it back to the main program
+    //send it back to the main program as a returned variable
     public static int AskUser(String option1, String option2) throws IOException{
         //open the BufferedReader
         BufferedReader myReader = new BufferedReader(new InputStreamReader(System.in));
@@ -106,6 +108,7 @@ public class StoryHolder{
         printSum("**Certain encounters have unique interactions if you choose to use your currency.**");
     }
 
+    //retrieves the print and ask lines for the Null Ending
     public static void NullEnding(){
         ClrScrn();
         printSum("You don’t accept Gonti’s offer. You were never meant to do this much in your life, and you’d \r\n" + //
@@ -121,6 +124,7 @@ public class StoryHolder{
     printSum("THE END (ENDING 2/4 THE NULL ENDING)");
     }
 
+    //prints lines for the first set of endings
     public static void TheEnd(int MoneyAmount) throws IOException{
         printSum("Press Enter to continue....");
         BufferedReader myReader = new BufferedReader(new InputStreamReader(System.in));
@@ -210,6 +214,7 @@ public class StoryHolder{
 
     }
 
+    //prints lines for the second set of endings
     public static void TheEndV2(int MoneyAmount) throws IOException{
         printSum("Press Enter to continue....");
         BufferedReader myReader = new BufferedReader(new InputStreamReader(System.in));
@@ -328,6 +333,7 @@ public class StoryHolder{
     }
 
 
+    //main function... is there more to say? This holds
     public static void main(String[] args) throws IOException{
         
         //declare the money value as blank, and then clear off any remaining junk on the screen

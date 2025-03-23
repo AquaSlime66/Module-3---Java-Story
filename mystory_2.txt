@@ -1,0 +1,108 @@
+
+A chill, unsettling desert wind blows grains of sand past your face as you awaken.
+Your eyes slowly crack open to see you’re inside of a decomposing, rusty structure. 
+It appears as if it’s been around for a thousand years, but constantly maintained and repaired 
+with slightly less old, but still just as rusty, patches of scrap metal. 
+You’ve regained more awareness, and see that a large crack in the hull of this metallic beast is 
+the source of desert wind and sand, but behind you the metallic structure groans, and the 
+darkness of its hallways entices you.
+
+1. Leave the barge.
+2. Explore the barge.
+You chose: 2. Explore the barge.
+
+A rounded, rusted metal door bids your welcome into the belly of this iron beast, and you
+twist the round handle until it squeals open. All around you lie pieces of miscellaneous odds 
+and ends, and nothing to stand out to you, this seems to be a junk barge. At the end of the 
+room, you notice another smaller, and less mutilated metal door. Upon opening it, a small
+neon green light flickers to life, and you see piles upon piles of shimmering gold and other
+precious metals. Something clinks quite loudly from the upper decks of the barge, and you hear footsteps accompanied by yelling.
+
+1. Secure yourself in the gold vault.
+2. Investigate the noise.
+You chose: 2. Investigate the noise.
+
+You tear open the rusted door, and a crowd of shady looking scavengers slink in. “Hey you, 
+you’ve saved us quite a lot of time by cracking that door open, how ‘bout we repay the favor?”. 
+They allow you to take a more than fair portion of the loot, and even offer you a ride into the 
+nearest city. The ride takes a few days, and maybe you didn’t realize how large this desert really 
+is. You arrive at the city of Trent, high, ancient stone walls cover the edges of the city, but 
+the buildings inside are so crammed they appear to be oozing out of the walls. The scavengers
+say their goodbyes to you, and you begin to explore this place for yourself. After some 
+wandering, you see a sign point to a large building residing in the central region of Trent. It 
+resembles the city walls more than any other building, and appears to be very old.
+
+**You've unlocked access to the currency menu, it will now appear under dialog boxes.**
+**Certain encounters have unique interactions if you choose to use your currency.**
+
+Inventory:          Gold/Money: 15
+
+1. Visit the Central Spire.
+2. Wander around some more.
+You chose: 2. Wander around some more.
+
+As you wander, darkness slowly creeps over Trent. You pass through an alley, trying to find a 
+shortcut to the the bustling streets, when a large group of thieves emerges from the shadows, 
+blocking your path. “Trent doesn’t often see newcomers, and when she does, they don’t leave.” 
+The thieves slowly creep closer towards you, and it starts to look certain that this might be a 
+fight you don’t win.
+
+
+Inventory:          Gold/Money: 15
+
+1. Stay and Fight.
+2. Attempt to bribe.
+You chose: 2. Attempt to bribe.
+You’ve been in some pretty nasty fights onboard the junk barges, but you know when the odds 
+are lined up against you. You offer the thieves 5 of your gold, and they scurry off, leaving you, 
+and the rest of your small fortune, untouched. After wandering for a little longer, you slowly find 
+yourself being more and more drawn towards the center of the city….
+
+Press Enter to continue....
+
+You enter the central Spire of Trent. Several armored sentinels stand guard in the building, with 
+a small throne in the center. A man, almost made of smoke, wearing a metallic mask that seems 
+to flicker to life sits upon it, clothed in ancient, threadbear robes. He immediately turns to you, 
+and grabs your attention with the glimmering mask. “You aren’t of Trent, but you arrive all the 
+same, we don’t get many that don’t already reside within her walls”. He stares intensely at you, 
+or maybe he’s just staring normally, it’s kind of hard to tell. He sighs, “I can’t even trust my own
+these days, let alone the rare outsider”. 
+A black orb raises from the ground and the smoke seeping from the man’s visage seems to be 
+drawn towards it. As the smoke wraps itself around the orb, you feel your mind start to twist and 
+turn, it feels as if the smoke is enveloping your head. After a few minutes, the man stops. “Ah, I 
+see. Your story makes sense, you’ve forgotten everything after the attack, but I can still glimpse 
+those lost memories in your mind. I am Gonti, the Minister of Trent. You come from a city very 
+far to the South, one that was destroyed in the same way many near Trent have been.”
+
+“There used to be hundreds of small settlements surrounding Trent, before this place was a 
+desert, and even now. Pillaging bands of raiders, like the ones that took you here, ravaged 
+these small towns unto the point of destruction. Your city, was wiped out by a spreading plague, 
+and one I am all too familiar with. The last survivors, yourself included, escaped on a barge, 
+only to be attacked and shot down.”
+
+Gonti’s smoke seems to twist and billow around in the air as if he’s deep in thought. 
+“Hmmmmm…” he mutters, “I may have use of you”
+
+Press Enter to continue...
+“You are new to this fight, but I think there is much promise with you. I saw how you dealt with 
+those thieves, and you are quite resourceful. I need someone who can wander to find what they, 
+or we, are looking for. I need you to lead my new anti-aircraft patrols. My intelligence tells me that the 
+raiders are planning something big, I need your help to ward it off, make the skies safe again, so 
+that others may safely seek refuge in Trent.”
+
+“Will you help me?”
+
+1. Yes.
+2. No.
+You chose: 1. Yes.
+You help initiate the creation of Trent’s anti-aircraft teams. Your men spend months preparing 
+and equipping several defense barges, and when an all-out raider assault threatens the city, 
+your patrols decimate them into oblivion. The traveling bands of raiders and marauders are 
+practically extinct by the time your first child is born. Trent lives in peace for several years, and 
+gains a much larger population as a result of safer skies, thanks to you.
+Years later, a plague from the South creeps into Trent, but the influx of people from around the 
+globe brings together different scientists with different methods. The plague is cured shortly after 
+it infects Trent. Around 5% of the city succumbs to the plague, but Trent remains stronger than ever, and continues to flourish.
+With the plague and raider threats completely neutralized, hope returns to the wasteland, and settlements begin to pop up around Trent, humanity expands.
+
+THE END (ENDING 3/4 SCION OF THE SKIES ENDING)
